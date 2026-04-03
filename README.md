@@ -15,7 +15,7 @@
 1. Убедитесь, что у вас установлен **Python 3.x**. Дополнительные библиотеки скачивать не нужно — используются только встроенные модули.
 2. Склонируйте репозиторий:
   ```bash
-   git clone [https://github.com/aibraikhan/network-device-scanner.git](https://github.com/aibraikhan/network-device-scanner.git)
+   git clone [https://github.com/aibraikhan/network-device-scanner.git](https://github.com/aibraikhan/Network-device-scanner.git)
   ```
 3. Запустите скрипт:
   ```bash
